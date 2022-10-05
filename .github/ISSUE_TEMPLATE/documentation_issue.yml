@@ -38,7 +38,7 @@ body:
     validations:
       required: false
 
-- type: textarea
+  - type: textarea
     id: tf-problem
     attributes:
       label: What is the docs issue?
