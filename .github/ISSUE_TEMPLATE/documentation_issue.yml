@@ -7,12 +7,7 @@ body:
       value: |
         # Thank you for opening a documentation change request.
 
-        The [hashicorp/terraform](https://github.com/hashicorp/terraform) `Documentation` issue type is
-        reserved for reports relating to the documentation on [https://www.terraform.io/docs]().
-        This issue type is monitored by the technical writers, it is not
-        monitored by the engineering team so if this issue is related to a problem or request for the
-        functionality of Terraform and you want engineering to take a look, please use the `Bug report`
-        or `Feature Request` issue types instead.
+        The [hashicorp/terraform](https://github.com/hashicorp/terraform) `Documentation` issue type is reserved for reports relating to the documentation on [https://www.terraform.io/docs](). This issue type is monitored by the technical writers, it is not monitored by the engineering team so if this issue is related to a problem or request for the functionality of Terraform and you want engineering to take a look, please use the `Bug report` or `Feature Request` issue types instead.
 
         For general usage questions, please see: https://www.terraform.io/community.html.
 
